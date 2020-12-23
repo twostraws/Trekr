@@ -1,0 +1,58 @@
+[
+	{
+		"text": "Where to go",
+        "children": [
+            {
+                "text": "How about magnificent Morocco? Or incredible India? Or wonderful, er, Wamerica? We have vacations in every continent in the world, so you can go wherever your heart leads you – or wherever your bank account can afford, whichever comes first. Just pick up the phone and get in touch today and we'll bring the holiday of your dreams to life. (Please contact your bank manager first.)"
+            }
+        ]
+	},
+	{
+		"text": "When to travel",
+        "children": [
+            {
+                "text": "If you're looking for a special summer getaway, we have a great vacation for you. If you're looking for a cheeky winter break, we can make it happen. If you accidentally said 'you too' after a cinema usher ripped your ticket and told you to enjoy the film and now need to fly to the opposite end of the planet and assume a false name to avoid eternal embarrassment, we're here to help. TL;DR: we're pretty darn good at vacations."
+            }
+        ]
+	},
+	{
+		"text": "What to pack",
+        "children": [
+            {
+                "text": "What you need to pack depends on where you want to travel, but for hot climates you'll want to pack some high-quality sun cream, mosquito repellant, and perhaps a battery pack for your iPhone so you can take lots of pictures to send back to your friends who are stuck at home. If you're visiting a cold climate, you should pack a large notebook so you can take copious notes of the reasons why visiting a hot climate would have been better."
+            }
+        ]
+	},
+	{
+		"text": "How to pay",
+        "children": [
+            {
+                "text": "When it comes to paying for your vacation, you'll be pleased to know we accept literally every form of payment you can imagine: Apple Pay, Visa, Mastercard, cashiers check, WePay, Alipay, PayPal, Payzone, Applejack, PayU, SagePay, Qiwi, Passport, Pinkie Pie, Atom, Adyen, Amazon Pay, Twilight Sparkle, Paysafe, Payoneer, Paytm, Klarna, and even cash. The only thing we don't accept is Google Pay, for obvious reasons, but come on – we just listed several characters from My Little Pony and you probably didn't even notice because Apple Pay was first on our list."
+            }
+        ]
+	},
+	{
+		"text": "When to pay",
+        "children": [
+            {
+                "text": "You can either pay the full amount now, put down a 50% deposit now and pay the balance a month before your trip, or put down a 10% deposit now and hope we forget about charging you the rest. Honestly it's all a bit irrelevant given the likelihood of your flight getting cancelled thanks to the coronavirus."
+            }
+        ]
+	},
+	{
+		"text": "Who will be in my group",
+        "children": [
+            {
+                "text": "All our groups are carefully hand-picked to ensure there's a wide variety of interesting, funny people who we know for sure will become your friends after the trip finishes. (BOB: WE NEED TO EDIT THIS, IT'S CLEARLY NOT TRUE. SERIOUSLY, WHO KEEPS IN TOUCH WITH PEOPLE THEY MEET DURING A VACATION?)"
+            }
+        ]
+	},
+	{
+		"text": "About this app",
+        "children": [
+            {
+                "text": "This app was made by an elite team of rockstar developers, who have made it their mission to build finely crafted works of art. This is no mere app: this is artisanal, craft Swift, delicately engineered to transport you to far off lands, forged in the fires of Mount Doom. Possibly."
+            }
+        ]
+	}
+]
