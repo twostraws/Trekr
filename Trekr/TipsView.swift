@@ -29,8 +29,6 @@ struct TipsView: View {
     }
 }
 
-struct TipsView_Previews: PreviewProvider {
-    static var previews: some View {
-        TipsView()
-    }
+#Preview {
+    TipsView()
 }
